@@ -11,9 +11,6 @@
   "dependencies": {
     "discord-buttons": "^4.0.0-deprecated",
     "discord.js": "^14.6.0",
-    "gamedig": "^3.0.0",
-    "mysql": "^2.18.1",
-    "mysql2": "^2.2.5",
     "nodejs": "0.0.0"
   }
 }
